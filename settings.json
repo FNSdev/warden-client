@@ -1,0 +1,6 @@
+{
+  "server_address": "http://127.0.0.1:8000",
+  "instance_uuid": "3b4e0872-7db5-4c3d-972e-b741c084e05a",
+  "token": "9ac8d65bffceb16b070fcfec3ddbb63383182a1c",
+  "delta_interval": 30
+}
